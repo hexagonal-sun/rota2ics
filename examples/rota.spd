@@ -1,0 +1,10 @@
+D 08:30:00 8h15m "Standard Day"
+LD 08:30:00 12h "Long Day"
+NS 20:30:00 11h "Night Shift"
+
+pattern
+
+_ _  D  D  D  _  _
+_ _  LD LD LD LD _
+_ NS NS NS _  _  _
+_ _  _  D  D  D  D
